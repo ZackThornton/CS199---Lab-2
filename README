@@ -1,0 +1,12 @@
+Author: Zachary Thornton
+Date: 1/9/18
+Description: README File for Contact Class Compilation
+
+Instructions:
+	1. All files have been added into the makefile.
+	2. To compile type "make all" (with quotations removed)
+	3. The files will compile into a file called: prog
+	4. To execute type: ./prog 
+	5. Hit Enter
+	6. After running the program, to remove the .o files type: make clean
+	7. Thank you!
